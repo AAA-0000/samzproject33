@@ -1,0 +1,29 @@
+Selamat datang di LUKY NESIA & DRIZ NESIA
+
+Kami adalah tim pengembang script yang dikenal dengan nama LUKY NESIA dan DRIZ NESIA. Di sini kami ingin memperkenalkan kelebihan dari script yang kami buat.
+
+Kelebihan Script Kami:
+- Ukuran Ringan: Script kami telah dioptimalkan dan diperkecil, sehingga sangat ringan. Bahkan dengan WHM/VPS 4GB pun tetap dapat menjalankannya dengan lancar.
+- Update Berkala: Setiap pembaruan script akan kami bagikan kepada pengguna VIP secara permanen.
+- Kustomisasi Lengkap: Dibuat dengan kombinasi HTML, CSS, JavaScript, dan PHP yang dikembangkan secara profesional.
+
+Pembagian Tugas:
+- DRIZ NESIA : Bertanggung jawab di bagian desain HTML & CSS.
+- LUKY NESIA : Bertanggung jawab di bagian fungsionalitas menggunakan JavaScript & PHP.
+
+Meski kami berbeda, kami saling melengkapi dalam membangun script berkualitas tinggi.
+
+Apa Itu VIP Script?
+VIP Script adalah script khusus bagi pengguna yang menjalankan jasa seperti jasteb melalui metode S2M/CURL. Dengan bergabung sebagai pengguna VIP, Anda akan mendapatkan akses ke:
+
+- Pusat Goib (Pusat Jasteb)
+- Update Script Permanen
+- Dukungan Pengembangan Berkelanjutan
+
+Kontak Pemesanan:
+WhatsApp DRIZ NESIA : +62 857-9211-6902
+WhatsApp LUKY NESIA : +62 895-0955-1861
+Telegram LUKY NESIA : t.me/luky_nesia
+
+Peringatan Penting:
+Hindari menggunakan script dari pihak lain yang hasil rename atau copy-paste, karena hal tersebut dapat menyebabkan domain cepat terkena blokir dan mudah terdeteksi oleh platform sosial media.
